@@ -46,11 +46,13 @@
 	.ml-15 {
 		margin-left: 0;
 	}
-	.hidden-md {
+}
+@media screen and (max-width: 601px) {
+    .hidden-md {
     	display: none;
 	}
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 602px) {
 	.hidden-sm {
     	display: none;
 	}
