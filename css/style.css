@@ -12,20 +12,20 @@ body {
 #background {
 	background: url(./../images/background.png) no-repeat;
 	background-size: cover;
-	padding: 50px 0;
+	padding: 70px 0;
 }
 .container-fluid {
     width: 95%;
     margin: auto;
 }
 .mission-div h3 {
-    font-size: 30px;
+    font-size: 36px;
     font-weight: 600;
     letter-spacing: normal;
     color: #0663ff;
 }
 .mission-div p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.4;
     letter-spacing: normal;
     text-align: justify;
@@ -59,11 +59,11 @@ body {
     box-shadow: 0 20px 150px 0 rgba(0, 0, 0, 0.06);
     background-color: #fff;
     padding: 40px 35px;
-    margin-top: 130px;
+    margin-top: 200px;
     color: #000;
 }
 #inclusion-div h5 {
-    font-size: 11px;
+    font-size: 16px;
     font-weight: normal;
     line-height: 1.5;
     border-left: 6px solid #0663ff;
@@ -73,13 +73,13 @@ body {
     margin: 15px 10px 0 30px;
 }
 #minister-div h6 {
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 600;
     margin-bottom: 2px;
 }
 #minister-div p {
     opacity: 0.4;
-    font-size: 9px;
+    font-size: 12px;
     line-height: 1.5;
 }
 .ml--15 {
@@ -95,7 +95,7 @@ body {
 }
 #website-footer p,
 #website-footer p a {
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.75;
     color: #697381;
 }
@@ -103,13 +103,13 @@ body {
     margin-left: 15px;
 }
 .mission-div p.mt--15 {
-    margin-top: -20px;
+    margin-top: -15px;
 }
 .mission-div p a.bold {
     font-weight: bold;
 }
 #website-footer .logo {
-    font-size: 28px;
+    font-size: 32px;
     color: #323c47;
 }  
 #website-footer .divider {
