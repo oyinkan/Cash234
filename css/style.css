@@ -1,0 +1,112 @@
+@font-face {
+    font-family: "Graphik-Regular";
+    src: url("webfont/Graphik-Regular.eot");
+    src: 
+    url("webfont/Graphik-Regular.woff") format("woff"),
+    url("webfont/Graphik-Regular.ttf") format("opentype"),
+    url("webfont/Graphik-Regular.svg") format("svg");
+}
+body {
+    font-family: Graphik-Regular!important;
+}
+#background {
+	background: url(./../images/background.png) no-repeat;
+	background-size: cover;
+	padding: 70px 0;
+}
+.container-fluid {
+    width: 95%;
+    margin: auto;
+}
+.mission-div h3 {
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: normal;
+    color: #0663ff;
+}
+.mission-div p {
+    font-size: 20px;
+    line-height: 1.4;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #3b4552;
+    margin-top: 40px;
+}  
+.mission-div p a {
+    font-weight: 500;
+    color: #0663ff;
+}
+.mission-div p span.earn {
+    background: #faf38d;
+    padding-bottom: 2px
+} 
+.mission-div p a span.arrow {
+    font-family: LucidaGrande;
+    color: rgba(6, 99, 255, 0.41);
+}
+.mission-div p a span.secondarrow {
+    font-family: LucidaGrande;
+    font-weight: bold;
+    color: rgba(6, 99, 255, 0.82);
+}
+.mt--150 {
+    margin-top: -150px;
+}
+#inclusion-div {
+    width: 80%; 
+    margin-left: auto;
+    border-radius: 8px;
+    box-shadow: 0 20px 150px 0 rgba(0, 0, 0, 0.06);
+    background-color: #fff;
+    padding: 40px 35px;
+    margin-top: 230px;
+    color: #000;
+}
+#inclusion-div h5 {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    border-left: 6px solid #0663ff;
+    padding-left: 25px;
+}
+#minister-div {
+    margin: 15px 10px 0 30px;
+}
+#minister-div h6 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+#minister-div p {
+    opacity: 0.4;
+    font-size: 12px;
+    line-height: 1.5;
+}
+.ml--15 {
+    margin-left: -15px;
+}
+
+#website-footer {
+    background-color: #f5f7fb;
+    padding:  40px 0 20px 0;
+}
+#website-footer p {
+    margin-top: 25px;
+}
+#website-footer p,
+#website-footer p a {
+    font-size: 16px;
+    line-height: 1.75;
+    color: #697381;
+}
+.ml-15 {
+    margin-left: 15px;
+}
+.mission-div p.mt--15 {
+    margin-top: -20px;
+}
+
+
+
+
+
