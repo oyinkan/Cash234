@@ -46,4 +46,12 @@
 	.ml-15 {
 		margin-left: 0;
 	}
+	.hidden-md {
+    	display: none;
+	}
+}
+@media screen and (min-width: 768px) {
+	.hidden-sm {
+    	display: none;
+	}
 }
