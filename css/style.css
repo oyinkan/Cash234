@@ -105,8 +105,19 @@ body {
 .mission-div p.mt--15 {
     margin-top: -20px;
 }
-
-
+.mission-div p a.bold {
+    font-weight: bold;
+}
+#website-footer .logo {
+    font-size: 32px;
+    color: #323c47;
+}  
+#website-footer .divider {
+    color: #0663ff;
+}
+a:hover {
+    text-decoration: none;
+}
 
 
 
