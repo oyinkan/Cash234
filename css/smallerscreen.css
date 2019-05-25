@@ -6,10 +6,9 @@
 		margin-left: 0;
 	}
 	.mission-div p {
-		font-size: 14px;
-		line-height: 22px;
+		/* font-size: 16px;
+		line-height: 22px; */
 		text-align: left;
-		color: #3b4552;
 	}
 	#inclusion-div {
 		width: auto;
@@ -48,12 +47,22 @@
 	}
 }
 @media screen and (max-width: 601px) {
-    .hidden-md {
+    .hidden-sm {
     	display: none;
 	}
 }
 @media screen and (min-width: 602px) {
-	.hidden-sm {
+	.hidden-md {
     	display: none;
+	}
+}
+@media screen and (max-width: 991px) {
+  .cash-div {
+		width: auto;
+	}
+}
+@media screen and (min-width: 770px) and (max-width: 991px) {
+	#inclusion-div {
+		margin-top: 200px;
 	}
 }

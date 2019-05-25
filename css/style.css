@@ -37,8 +37,8 @@ body {
     color: #0663ff;
 }
 .mission-div p {
-    font-size: 14px;
-    line-height: 22px;
+    font-size: 18px;
+    line-height: 24px;
     letter-spacing: normal;
     text-align: justify;
     color: #3b4552;
@@ -71,7 +71,7 @@ body {
     box-shadow: 0 20px 150px 0 rgba(0, 0, 0, 0.06);
     background-color: #fff;
     padding: 40px 35px;
-    margin-top: 125px;
+    margin-top: 140px;
     color: #000;
 }
 #inclusion-div h5 {
@@ -107,7 +107,7 @@ body {
 } */
 #website-footer p,
 #website-footer p a {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.75;
     color: #697381;
 }
@@ -129,6 +129,9 @@ body {
 }
 a:hover {
     text-decoration: none;
+}
+.cash-div {
+    width: 94%;
 }
 
 
