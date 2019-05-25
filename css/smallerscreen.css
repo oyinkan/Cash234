@@ -34,7 +34,7 @@
 		margin-top: 0;
 	}
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .mt--150 {
 		margin-top: 0;
 	}
@@ -61,7 +61,7 @@
 		width: auto;
 	}
 }
-@media screen and (min-width: 770px) and (max-width: 991px) {
+@media screen and (min-width: 769px) and (max-width: 991px) {
 	#inclusion-div {
 		margin-top: 200px;
 	}
